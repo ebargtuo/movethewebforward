@@ -9,7 +9,7 @@ Do you have some ideas for ways that all developers—from the seasoned professi
 
 ## IRC channel
 
-We're in #igotmybeanie on freenode IRC. 
+We're in #igotmybeanie on freenode IRC.
 
 ## Staging server
 
@@ -18,3 +18,4 @@ View the current site at [h5bp.github.com/igotmybeanie/](http://h5bp.github.com/
 ## Dev Notes
 
 Add “?mobile” to the end of index.html to see assets as they will appear on mobile devices (determined by screen size, really), and “?basic” to see assets as they will appear in browsers that don’t support media queries. I haven’t done much in the way of styling either way. There’s quite a bit of behind-the-scenes logic goin’ on that we most definitely will not need for a one-pager, so a lot of that will be removed very soon.
+
